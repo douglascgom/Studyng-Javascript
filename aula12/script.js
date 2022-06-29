@@ -2,10 +2,11 @@ let varA = 'A';
 let varB = 'B';
 let varC = 'C';
 
-let primeiro = varA
+let varTemp = varA;
 
-varA = varB
-varB = varC
-varC = primeiro
+varA = varB;
+varB = varC;
+varC = varTemp
 
-console.log(varA, varB, varC)
+console.log(varA, varB, varC);
+ 
