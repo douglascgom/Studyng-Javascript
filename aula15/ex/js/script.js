@@ -3,9 +3,9 @@ const numeroTitulo = document.getElementById('numero-titulo');
 const raiz = document.getElementById('raiz');
 const inteiro = document.getElementById('inteiro');
 const nan = document.getElementById('nan');
-const arredondabaixo = document.getElementById('arredondabaixo')
-const arredondacima = document.getElementById('arredondacima')
-const casasdecimais = document.getElementById('casasdecimais')
+const arredondabaixo = document.getElementById('arredondabaixo');
+const arredondacima = document.getElementById('arredondacima');
+const casasdecimais = document.getElementById('casasdecimais');
 
 numeroTitulo.innerHTML = numero;
 raiz.innerHTML = `<p>Raiz quadrada: <strong>${Math.sqrt(numero)}</strong></p>`
