@@ -11,6 +11,7 @@ NaN
 */
 
 const saudacao = 'ola mundo'
+const continuacao = ',tudo bem ?'
 
-console.log(saudacao)
+console.log(`${saudacao} ${continuacao}`)
 
