@@ -10,3 +10,4 @@ null / undefined
 NaN
 */
 
+let  nulo;
