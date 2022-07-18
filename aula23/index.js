@@ -10,7 +10,7 @@ null / undefined
 NaN
 */
 
-const saudacao = 'ola'
+const saudacao = 'ola mundo'
 
 console.log(saudacao)
 
