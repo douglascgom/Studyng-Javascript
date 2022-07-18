@@ -10,4 +10,7 @@ null / undefined
 NaN
 */
 
-let  nulo;
+const saudacao = 'ola'
+
+console.log(saudacao)
+
